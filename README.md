@@ -1,4 +1,4 @@
-# waste_segregation
+# Waste Segregation using AI
 
 A new Flutter project.
 
